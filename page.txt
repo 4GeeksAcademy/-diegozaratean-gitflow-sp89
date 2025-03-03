@@ -3,3 +3,4 @@ a simpel text
 CRUD mecanicos
 
 CRUD mantenimiento
+CRUD COCHES2
